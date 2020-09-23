@@ -1,0 +1,17 @@
+Simulanics Antivirus
+
+Included Are The Following:
+
+Simulanics Antivirus -Currently Scans Files for Virus Signatures...will soon be able 			to "heal" the infected file (already underway)
+
+SimAV Signature Creator - Pretty self explanatory. Simply load a virus (you can download huge zipped folders containing hundreds of compiled virii themselves on the internet...can't find them, then contact me. I assure you that your computer is 100% safe from downloading virii as long as you don't EXECUTE them (double click them :-))  After perusing past headers and recognizable api and functions within the virii you can find all kinds of jumbled ascii strings. (Look in signatures.db if you don't know what I'm talking about). Simply select one of them, type in the name of the virus it came from and click "Add to Database."  If you don't feel safe downloading any virii then simply wait for our database to get bigger and do an automatic update from the antivirus itself...and it will download the latest version from the server. You can also experiment with the string signatures.... if you were to load a visual basic executeable created in Visual Basic 6.0 into the Signature Creator, Every Visual Basic Executable would Contain this string  "MSVBVM60" (without the quotations). These methods can be used to even create a program which goes through the computer and tells you what a program is capable of doing or what it does before you even execute it...Pretty Neat huh ? :-)
+
+Any Comments and/or suggestions and of course help is always welcome and appreciated.
+
+Thank you for trying out Simulanics Antivirus.
+
+-Matt Combatti
+-http://www.simulanics.com
+-simulanics@technologist.com
+
+ 

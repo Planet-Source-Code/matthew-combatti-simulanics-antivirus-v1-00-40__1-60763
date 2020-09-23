@@ -1,0 +1,7 @@
+Below is the Eicar Test String which is a Universally Accepted Test String
+to test antivirus software. Upon scanning a file containing this string
+whether it be in ascii or binary format, the antivirus should return the scanned
+file as being infected.  **Note that it is used for testing purposes only and
+is not actually virus code.
+
+X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
